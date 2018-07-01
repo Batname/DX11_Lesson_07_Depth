@@ -1,0 +1,7 @@
+x64/*
+Depth/x64/*
+Depth/Debug/*
+*.VC.db
+*.VC.VC.opendb
+.vs/*
+*.exe
